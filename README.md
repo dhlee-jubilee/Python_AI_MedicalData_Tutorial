@@ -3,10 +3,10 @@
 #### - 실습: Google Colab
 
 
-## 1. Table Dataset Handling
+## 1. Table Data Handling
 - 출처: [Novel COVID-19 Dataset (Kaggle)](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)
 
-## 2. Time-Series Dataset Handling
+## 2. Time-Series Data Handling
 - 출처: [COVID-19 Dataset (Kaggle)](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)
 
 ## 3. Machine Learning Application (1): Table Dataset
