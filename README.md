@@ -9,10 +9,10 @@
 ## 2. Time-Series Dataset Handling
 - 출처: [COVID-19 Dataset (Kaggle)](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)
 
-## 3. Machine Learning Application(1): Table Dataset
+## 3. Machine Learning Application (1): Table Dataset
 - 출처: [Heart Attack Prediction (Kaggle)](https://www.kaggle.com/johnsmith88/heart-disease-dataset)
 
-## 4. Machine Learning Application(2): Table Dataset
+## 4. Machine Learning Application (2): Table Dataset
 - 출처: [Gene Expression Prediction (VIPDUE)](https://vipdue.com/python-daixie-linear-regression-for-gene-expression-prediction/)
 
 ## 5. Deep Learning Application: Image Dataset (ongoing)
