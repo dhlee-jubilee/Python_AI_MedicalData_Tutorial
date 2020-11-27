@@ -18,7 +18,7 @@
 ## 5. Deep Learning Application: Image Dataset 
 - 출처: [Lumbar Vertebra CT Dataset (SpineWeb Dataset5)](http://spineweb.digitalimaginggroup.ca/Index.php?n=Main.Datasets#Dataset_5.3A_Lumbar_vertebra_segmentation_CT_image_database
 )
-
+- Trained U-Net model (.h5): [Download](https://drive.google.com/file/d/1L4TSUjmop2S0ETruf4Cp08nWr1Sa83RQ/view?usp=sharing)
 
 ---
 ## License
