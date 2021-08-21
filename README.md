@@ -28,5 +28,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ---
 ## Contact
 
-dhlee.jubilee@gmail.com, dhlee@melab.snu.ac.kr
+dhlee.jubilee@gmail.com, dhlee.jubilee@cnu.ac.kr
 
